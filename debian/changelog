@@ -1,3 +1,9 @@
+regolith-styles-typeface-materialdesign (1.02-1ubuntu1~ppa1) eoan; urgency=medium
+
+  * Add icons for nettraffic blocket. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Mon, 18 Nov 2019 20:30:41 -0800
+
 regolith-styles-typeface-materialdesign (1.01-1ubuntu1~ppa1) disco; urgency=medium
 
   * Fix some icons 
